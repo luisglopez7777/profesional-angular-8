@@ -1,0 +1,3 @@
+epokp
+luislfl@MacBook-Pro-de-Luis Profesional de Angular 8 % npm uninstall @sentry/browser
+removed 6 packages and audited 1592 packages i
